@@ -1,2 +1,2 @@
-# Projeto-Integrador-1
-Este é o projeto do meu PI
+# Projeto-Fatec
+Este é o meu projeto na faculdade
